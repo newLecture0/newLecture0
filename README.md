@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+## 저는 진짜 뉴렉처가 아닙니다. 이상하게 생각하지 마세요
+
+## 뉴렉처 선생님 멋있어요 😄
+
+김영한 남궁성 백기선 뉴렉처 Let's Go
+
 <!--
 **newLecture0/newLecture0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
